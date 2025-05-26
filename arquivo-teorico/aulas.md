@@ -2,7 +2,7 @@
 > Uma linguagem de programão (regras sintáticas)  
 > .NET (2002): uma plataforma de desenvolvimento para se criar diversos tipos de aplicações, podendo usar várias linguagens de programação
 
-<div align=center>
+<div align = center>
     <img src=implementações.png alt="implementações" width="500">
 </div>
 
@@ -18,3 +18,52 @@
 - Portugues(Brasil)  
 - Baixar tudo, depois instalar  
 - Instalar  
+
+**Estrutura Básica de um programa C#**
+- Estrutura de arquivos
+    - Arquivo .sln
+    - Arquivo .csproj
+    - Classe principal .cs
+    - Subpastas obj e bin
+- Program.cs
+    - Cláusulas using: referências a outros namespaces
+    - Namespace
+    - Classe
+    - Método
+    - static void Main(string[] args)
+
+## Tipos básicos em C#
+
+>C# é uma linguagem estaticamente tipada  
+>Tipos valor pré-definidos em C#  
+>Tipos referência pré-definidos em C#  
+>Variável não atribuída  
+>Overflow  
+>Padrão para float: sufixo "f"  
+>Padrão para char: aspas simples  
+>Padrão para string: aspas duplas  
+>Padrão para bool: true, false  
+>Opção: inferência de tipos com palavra "var" (dentro de métodos)  
+
+**C# built-in data types (tipos valor)**  
+| C# Type | .NET Framework Type | Signed | Bytes | Possible Values                                            |
+|--------|----------------------|--------|-------|------------------------------------------------------------|
+| sbyte  | System.SByte         | Yes    | 1     | -128 to 127                                                |
+| short  | System.Int16         | Yes    | 2     | -32,768 to 32,767                                          |
+| int    | System.Int32         | Yes    | 4     | -2³¹ to 2³¹ - 1                                            |
+| long   | System.Int64         | Yes    | 8     | -2⁶³ to 2⁶³ - 1                                            |
+| byte   | System.Byte          | No     | 1     | 0 to 255                                                   |
+| ushort | System.UInt16        | No     | 2     | 0 to 65,535                                                |
+| uint   | System.UInt32        | No     | 4     | 0 to 2³² - 1                                               |
+| ulong  | System.UInt64        | No     | 8     | 0 to 2⁶⁴ - 1                                               |
+| float  | System.Single        | Yes    | 4     | ±1.5 × 10⁻⁴⁵ to ±3.4 × 10³⁸ with ~7 significant figures    |
+| double | System.Double        | Yes    | 8     | ±5.0 × 10⁻³²⁴ to ±1.7 × 10³⁰⁸ with ~15-16 significant figs |
+| decimal| System.Decimal       | Yes    | 12    | ±1.0 × 10⁻²⁸ to ±7.9 × 10²⁸ with 28-29 significant figs    |
+| char   | System.Char          | N/A    | 2     | Any Unicode character                                      |
+| bool   | System.Boolean       | N/A    | 1/2   | true or false                                              |
+
+**C# built-in data types (tipos referência)**  
+| Tipo C# | Tipo .NET | Descrição |
+|---------|-----------|--------------------------------------------|
+| string | System.String | Uma cadeia de caracteres Unicode IMUTAVEL (segurança, simplicidade, thread, safe) |
+| object | System.Object | Um objeto genérico (toda classe em C# é subclasse de object) GetType, Equals, GetHashCode, ToString |

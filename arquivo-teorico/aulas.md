@@ -67,3 +67,43 @@
 |---------|-----------|--------------------------------------------|
 | string | System.String | Uma cadeia de caracteres Unicode IMUTAVEL (segurança, simplicidade, thread, safe) |
 | object | System.Object | Um objeto genérico (toda classe em C# é subclasse de object) GetType, Equals, GetHashCode, ToString |
+
+## Restrições e convenções para nome
+
+**Restrições para nomes de variaveis**  
+- Não pode começar com dígito: use uma letra ou _    
+- Não usar acentos ou til  
+- Não pode ter espaço em branco  
+- Sugestão: use nomes que tenham um significado 
+
+| Errado | Correto |
+|----------|-----------|
+| int 5minutos; | int _5minutos; |
+| int salário; | int salario; |
+| int salario do empregado; | salarioDoFuncionario; |
+
+**Convenções**
+- Camel Case: lastName (parâmetros de métodos, variáveis dentro de métodos)  
+- Pascal Case: LastName (namespaces, classe, properties e métodos)  
+- Padrão _lastName (atributos "internos" da classe)  
+
+```
+namespace Curso
+{
+    class ContaBancaria
+    {
+        public string Titular { get; set; }
+        private double _saldo;
+        public void Deposito(double quantia)
+        {
+            _saldo += quantia;
+        }
+        public double GetSaldo()
+        {
+            return _saldo;
+        }
+    }
+}
+```
+
+

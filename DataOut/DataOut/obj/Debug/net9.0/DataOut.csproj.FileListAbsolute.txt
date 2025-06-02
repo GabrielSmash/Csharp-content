@@ -1,0 +1,15 @@
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.AssemblyInfoInputs.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.AssemblyInfo.cs
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.csproj.CoreCompileInputs.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.sourcelink.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\bin\Debug\net9.0\DataOut.exe
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\bin\Debug\net9.0\DataOut.deps.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\bin\Debug\net9.0\DataOut.runtimeconfig.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\bin\Debug\net9.0\DataOut.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\bin\Debug\net9.0\DataOut.pdb
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\refint\DataOut.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.pdb
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\DataOut.genruntimeconfig.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\DataOut\DataOut\obj\Debug\net9.0\ref\DataOut.dll

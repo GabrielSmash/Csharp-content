@@ -1,0 +1,15 @@
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\bin\Debug\net9.0\EntryData.exe
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\bin\Debug\net9.0\EntryData.deps.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\bin\Debug\net9.0\EntryData.runtimeconfig.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\bin\Debug\net9.0\EntryData.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\bin\Debug\net9.0\EntryData.pdb
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.AssemblyInfoInputs.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.AssemblyInfo.cs
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.csproj.CoreCompileInputs.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.sourcelink.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\refint\EntryData.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.pdb
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\EntryData.genruntimeconfig.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\EntryData\EntryData\obj\Debug\net9.0\ref\EntryData.dll

@@ -1,0 +1,15 @@
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\bin\Debug\net9.0\Conversion.exe
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\bin\Debug\net9.0\Conversion.deps.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\bin\Debug\net9.0\Conversion.runtimeconfig.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\bin\Debug\net9.0\Conversion.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\bin\Debug\net9.0\Conversion.pdb
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.AssemblyInfo.cs
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.sourcelink.json
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\refint\Conversion.dll
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.pdb
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\Conversion.genruntimeconfig.cache
+C:\Users\Eletronica\Documents\Gabriel\C# Completo\Csharp-content\LogicInC\Conversion\Conversion\obj\Debug\net9.0\ref\Conversion.dll

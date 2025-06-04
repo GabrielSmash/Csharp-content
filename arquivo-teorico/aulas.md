@@ -31,8 +31,8 @@
     - Classe
     - Método
     - static void Main(string[] args)
-
-## Tipos básicos em C#
+## Introdução a C# e .NET
+**Tipos básicos em C#**
 
 >C# é uma linguagem estaticamente tipada  
 >Tipos valor pré-definidos em C#  
@@ -68,7 +68,7 @@
 | string | System.String | Uma cadeia de caracteres Unicode IMUTAVEL (segurança, simplicidade, thread, safe) |
 | object | System.Object | Um objeto genérico (toda classe em C# é subclasse de object) GetType, Equals, GetHashCode, ToString |
 
-## Restrições e convenções para nome
+## Logica usando C#
 
 **Restrições para nomes de variaveis**  
 - Não pode começar com dígito: use uma letra ou _    
@@ -105,6 +105,44 @@ namespace Curso
     }
 }
 ```
+**Operadores de atribuição**
+| *Operador* | *Exemplo* | *Significado* |
+|------------|-----------|---------------|
+| =          | a = 10;   | a RECEBE 10;  |
+| +=         | a += 2;   | a RECEBE +2;  |
+| -=         | a -= 2;   | a RECEBE -2;  |
+| *=         | a *= 2;   | a RECEBE a * 2 |
+| /=         | a /= 2;   | a RECEBE a / 2 |
+| %=         | a %= 3;   | a RECEBE a % 3 |
+
+**Operadores Aritméticos**
+| *Operador* | *Significado* |
+|------------|---------------|
+| + | adição |
+| - | subtração |
+| * | multiplicação |
+| / | divisão |
+| % | resto da divisão |
+
+*1)* * / % tem precedencia maior que + -  
+*2)* Exemplos:  
+- 3 + 4 * 2 -> Resultado: 11  
+- (3 + 4) * 2 -> Resultado: 14  
+
+*3)* Pode-se usar parateses a vontade  
+*4)* Exemplo com mod:  
+- 17 % 3 -> Resultado: 2 (resto da divisão)
+
+**Entrada de dados**
+> Console.ReadLine();  
+- Le da entrada padrão até a quebra de linha.
+- Retorna os dados lidos na forma de string.
+- Ler um texto até a quebra de linha e armazenar em uma variável.
+- Ler três palavras, uma em cada linha, armazenando cada uma em uma variável.
+- Ler três palavras na mesma linha, separadas por espaço, armazenando cada uma em uma variável.
+
+
+
 
 
 
